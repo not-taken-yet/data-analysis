@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "1da3815fed4ebd4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e274104ae8674d57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b698dd3421a75421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adsp/기출/44회.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "44회"
+            }
+          },
+          {
+            "id": "7591edbd5eef2e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adsp/3과목 - 데이터분석.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3과목 - 데이터분석"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75af05428c83596d",
+    "type": "split",
+    "children": [
+      {
+        "id": "114cf16ad10a5da4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4c16a74e0710d1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9426bec93fe1074a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9d3203a78974cd8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "89e4cee497b146fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b9042841cf9a393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4938fc1ea3a0a54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "adsp/3과목 - 데이터분석.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3과목 - 데이터분석"
+            }
+          },
+          {
+            "id": "0c8a357b99664397",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "adsp/3과목 - 데이터분석.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3과목 - 데이터분석"
+            }
+          },
+          {
+            "id": "aba74564eeb59670",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "230d53cbecdd5811",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "adsp/3과목 - 데이터분석.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3과목 - 데이터분석"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7591edbd5eef2e35",
+  "lastOpenFiles": [
+    "adsp/2과목 - 데이터 분석 기획.md",
+    "adsp/1과목 - 데이터 이해.md",
+    "Pasted image 20250809024200.png",
+    "adsp/기출/44회.md",
+    "adsp/3과목 - 데이터분석.md",
+    "Pasted image 20250809023206.png",
+    "adsp/기출/42회.md",
+    "adsp/기출/43회.md",
+    "adsp/기출/images/classification-table.png",
+    "adsp/기출/images/overfitting-underfitting.png",
+    "adsp/기출/images/graph-images.png",
+    "adsp/기출/images/analyzing-assignment.png",
+    "adsp/기출/images",
+    "adsp/기출/43회",
+    "adsp/기출",
+    "adsp/기출.md",
+    "adsp",
+    "data-analysis/Untitled",
+    "data-analysis",
+    "Welcome.md"
+  ]
+}
